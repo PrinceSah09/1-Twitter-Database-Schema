@@ -30,7 +30,6 @@
   - `password`: Hashed password for user authentication
   - `bio`: User biography or description
   - `created_at`: Timestamp indicating user registration date
-  - 
  
 ### Users Table:
 - **Columns**:
